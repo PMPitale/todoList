@@ -1,0 +1,9 @@
+.taskDone{
+    background-color: grey !important;
+}
+
+.subHeaderClass{
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
